@@ -41,7 +41,7 @@
 <details>
 <summary>📈 View my GitHub Stats</summary>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doffy-Sani&show_icons=true&theme=default&hide=stars,issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doffy-San&show_icons=true&theme=default&hide=stars,issues)
 
 </details>
 
