@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nino Saadi</h1>
 <p align="center">🎓 Back-end developer in training | 🌍 Aspiring international engineer | 🚀 Passionate about clean code & software quality</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding GIF" width="400" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlpd2RxNmE4NzdjN3g4MjBzeGUyNGh4am53OWlzZ2J5c3c2a3lyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" alt="Coding GIF" width="400" />
 </p>
 
 ---
